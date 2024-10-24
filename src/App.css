@@ -81,5 +81,12 @@ git add App.js
 
 git diff
 
+git add .
+
+git commit -m "initial code added"
+
+git log
+
+
 
 */
